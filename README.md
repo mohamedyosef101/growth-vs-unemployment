@@ -2,6 +2,7 @@
 **The goal of the project**
 Exploring the relationship between the growth rate of the economy and the unemployment rate in the last four years since `COVID-19`. 
 
+<img src="https://github.com/mohamedyosef101/growth-vs-unemployment/assets/118842452/d2e6abad-a58d-45ae-aa83-1e412b77427d" alt="unemployment rate and economic growth" width="720">
 
 ## Installation
 You'll need to install fredapi first. And to do that use this: 
