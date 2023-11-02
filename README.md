@@ -34,12 +34,7 @@ This observation underscores a fundamental economic principle: "With lower unemp
 
 <div><br></div>
 
-<div>
-	<hr>
-	<p> 🔔 Follow me for more <b>Product Data Science</b> work.</p>
-	<hr>
-</div>
-<p>&copy; Created by <b>MohamedYosef101</b> | 
-	<a href="https://linkedin.com/in/mohamedyosef101">LinkedIn</a> &centerdot;
-	<a href="https://github.com/mohamedyosef101">GitHub</a>
-</p>
+---
+
+* 💼 For more, take a look at my work **[@MohamedYosef101](https://github.com/mohamedyosef101)**
+* 💬 If you have any questions, feel free to contact me via **[email](mailto:mohamedyosef101@outlook.com)** or **[LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
